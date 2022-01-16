@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cycodedconcept
 - 👀 I’m interested in providing solutions with modern day technologies.
-- 🌱 I’m currently learning php laravel and react.js framework
+- 🌱 I’m am a fullstack developer in javascript, React, php and node.js
 - 💞️ I’m looking to collaborate on variety of projects
 - 📫 How to reach me cycodedconcept@gmail.com
 
