@@ -1,6 +1,6 @@
 - 👋 Hi, I’m cyril
 - 👀 I’m interested in providing solutions with modern day technologies.
-- 🌱 I’m am a fullstack(MERN) developer in javascript, React, php, Redux, typescript and node.js
+- 🌱 I’m am a fullstack(MERN) developer in javascript, React, php, Redux, typescript, graphql and node.js
 - 💞️ I’m looking to collaborate on variety of projects
 - 📫 How to reach me cycodedconcept@gmail.com
 
